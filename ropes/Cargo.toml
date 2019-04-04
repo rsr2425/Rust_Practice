@@ -1,0 +1,6 @@
+[package]
+name = "ropes"
+version = "0.1.0"
+authors = ["rsr2425 <rsr2425@gmail.com>"]
+
+[dependencies]
